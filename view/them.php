@@ -9,12 +9,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h3>THEM</h3>
+        <h2 style="color:#C40532">Thêm</h2>
         <form method="post">
-            <p>ten : <input type="text" name="ten"></p>
-            <p>gia:<input type="text" name="gia"> </p>
-            <p>mota :<input type="text" name="mota"> </p>
-            <p>khuyenmai : <input type="text" name="khuyenmai"></p>
+            <p>Tên : <input type="text" name="ten"></p>
+            <p>Giá:<input type="text" name="gia"> </p>
+            <p>Mô tả :<input type="text" name="mota"> </p>
+            <p>Khuyến mại : <input type="text" name="khuyenmai"></p>
             <p><input type="submit" name="submit" value="them"></p>
             
         </form>
